@@ -1,6 +1,6 @@
 # 🏋️ Calculadora de IMC
 
-![Preview da Calculadora de IMC](ftcalculadorDeImc.png)
+![Preview da Calculadora de IMC](ftCalculadorDeImc.png)
 
 Uma aplicação web que calcula o Índice de Massa Corporal (IMC) e classifica o resultado conforme padrões da OMS, com visualização interativa das faixas de peso.
 
