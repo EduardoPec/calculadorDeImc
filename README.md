@@ -17,9 +17,9 @@ Uma aplicação web que calcula o Índice de Massa Corporal (IMC) e classifica o
 - **CSS3**: Design moderno com tema escuro e detalhes em dourado
 - **JavaScript**: Lógica de cálculo e interatividade
 
-Veja o portfólio funcionando ao vivo:
+Veja o projeto funcionando ao vivo:
 
-👉 [Eduardo Peçanha — Portfólio Online](https://eduardopec.github.io/calculadorDeImc/)
+👉 [Eduardo Peçanha — Projeto Online](https://eduardopec.github.io/calculadorDeImc/)
 
 ## 🚀 Como Executar
 1. Clone o repositório:
